@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets/blob/master/CheatSheets/28533648.png" alt="Pentest Cheat Sheets" width="300" />
+  <img src="https://img.freepik.com/premium-vector/japan-wave-ocean-illustration-asia-oriental-traditional-hokusai-line-art-design_149225-72.jpg" alt="Pentest Cheat Sheets" width="300" />
 </p>
 
 # Pentest-Cheat-Sheets
